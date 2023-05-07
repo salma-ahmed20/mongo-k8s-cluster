@@ -37,7 +37,7 @@ kubectl logs mongo-express-xxxxxx
 
 
 ## give a URL to external service in minikube
-mandatory if you use minikube
+- mandatory if you use minikube
 ```javascript
 minikube service mongo-express-service
 ```
